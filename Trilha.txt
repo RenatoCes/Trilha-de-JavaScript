@@ -1,0 +1,195 @@
+ 
+🟢 FASE 1 — Fundamentos do JavaScript
+
+Objetivo: entender a base da linguagem
+
+1️⃣ Introdução
+
+O que é JavaScript
+
+Onde o JS roda (navegador e Node.js)
+
+Como executar JS:
+
+Console do navegador
+
+Arquivo .js
+
+2️⃣ Sintaxe básica
+
+console.log()
+
+Comentários
+
+Variáveis:
+
+var, let, const
+
+Tipos de dados:
+
+string
+
+number
+
+boolean
+
+null
+
+undefined
+
+📌 Prática:
+Criar scripts simples que exibem mensagens e fazem contas.
+
+🟡 FASE 2 — Lógica de Programação
+
+Objetivo: pensar como programador
+
+3️⃣ Operadores
+
+Aritméticos (+ - * / %)
+
+Comparação (==, ===, !=, <, >)
+
+Lógicos (&&, ||, !)
+
+4️⃣ Condicionais
+
+if, else, else if
+
+switch
+
+5️⃣ Laços de repetição
+
+for
+
+while
+
+do while
+
+📌 Prática:
+
+Calculadora simples
+
+Verificar idade (maior ou menor)
+
+Tabuada com for
+
+🟠 FASE 3 — Funções e Estruturas
+
+Objetivo: escrever código reutilizável
+
+6️⃣ Funções
+
+Funções tradicionais
+
+Arrow functions () => {}
+
+Parâmetros e retorno
+
+7️⃣ Arrays
+
+Criar arrays
+
+Métodos:
+
+push, pop
+
+map, filter, reduce
+
+forEach
+
+8️⃣ Objetos
+
+Criar objetos
+
+Acessar propriedades
+
+Métodos dentro de objetos
+
+📌 Prática:
+
+Lista de tarefas
+
+Sistema simples de cadastro (nome, idade, email)
+
+🔵 FASE 4 — JavaScript no Navegador (DOM)
+
+Objetivo: interagir com páginas web
+
+9️⃣ DOM
+
+document.querySelector
+
+getElementById
+
+innerHTML, textContent
+
+Eventos:
+
+click
+
+submit
+
+input
+
+🔟 Manipulação de elementos
+
+Criar elementos
+
+Alterar estilos
+
+Trabalhar com formulários
+
+📌 Prática:
+
+Contador de cliques
+
+Lista de tarefas interativa
+
+Formulário com validação
+
+🟣 FASE 5 — JavaScript Moderno
+
+Objetivo: escrever código profissional
+
+1️⃣1️⃣ ES6+
+
+Destructuring
+
+Spread operator ...
+
+Template strings
+
+Modules (import / export)
+
+1️⃣2️⃣ Assíncrono
+
+setTimeout
+
+Promises
+
+async / await
+
+fetch API
+
+📌 Prática:
+
+Consumir API pública (ex: clima ou pokémon)
+
+Exibir dados na tela
+
+🔴 FASE 6 — Projetos para Portfólio
+
+Objetivo: consolidar o aprendizado
+
+Projetos sugeridos:
+
+✔️ To-do List
+
+✔️ Calculadora
+
+✔️ Jogo simples (pedra, papel e tesoura)
+
+✔️ Consumo de API
+
+✔️ Mini sistema CRUD
